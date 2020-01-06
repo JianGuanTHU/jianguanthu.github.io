@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student supervised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at Tsinghua University, Beijing, China. My research interests lie in natural language processing, particularly in text generation. 
+I am a graduate student supervised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at Tsinghua University, Beijing, China. My research interests lie in reinforcement learning, information retrieval and natural language processing, particularly in text generation. 
 
 ## Publications
 
