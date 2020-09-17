@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Guan 关 健"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 

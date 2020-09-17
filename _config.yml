@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Guan 关健"
+title                    : "Jian Guan 关 健"
 title_separator          : "-"
-name                     : &name "Jian Guan"
+name                     : &name "Jian Guan 关 健"
 description              : &description "A graduate student at Tsinghua University."
 url                      : https://jianguanthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
