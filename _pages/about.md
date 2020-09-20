@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Jian Guan 关 健"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year graduate student supervised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at Tsinghua University, Beijing, China. My research interests lie in language generation, reinforcement learning, information retrieval and natural language processing. 
+I am now a second-year graduate student in the [Conversational AI Lab](http://coai.cs.tsinghua.edu.cn/) under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) of Tsinghua University, Beijing, China. Before joining CoAI, I received my bachelor degree in the Department of Physics of Tsinghua University.
+
+My research interests lie in natural language generation, reinforcement learning, information retrieval. 
+
+
 
 ## Publications
-
-\* indicates equal contribution
 
 **2020**
 
