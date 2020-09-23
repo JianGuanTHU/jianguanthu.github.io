@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second-year graduate student in the [Conversational AI  Lab (CoAI)](http://coai.cs.tsinghua.edu.cn/) under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) of Tsinghua University, Beijing, China. Before joining CoAI, I received my bachelor degree in the Department of Physics of Tsinghua University.
+I am now a second-year graduate student in the [Conversational AI  Lab (CoAI)](http://coai.cs.tsinghua.edu.cn/) under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) of Tsinghua University, Beijing, China. Before joining CoAI, I received my bachelor degree in the Department of Physics of Tsinghua University. Here is my [cv](./cv_guanjian.pdf)
 
 My research interests lie in natural language generation, reinforcement learning, information retrieval. 
 
