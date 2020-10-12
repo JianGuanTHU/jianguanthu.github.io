@@ -16,7 +16,7 @@ My research interests lie in [open-ended language generation](https://github.com
 
 ## Publications
 
-**Note:** \* indicates equal contribution
+*\* indicates equal contribution*
 
 1. **Jian Guan**, Minlie Huang. UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. *EMNLP 2020, Online Conference.* [[pdf]](https://arxiv.org/abs/2009.07602) [[code]](https://github.com/thu-coai/UNION)
 2. **Jian Guan**, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. *TACL 2020.* [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00302) [[code]](https://github.com/thu-coai/CommonsenseStoryGen) [[demo]](http://coai.cs.tsinghua.edu.cn/static/CommonsenseStoryGen/) 
