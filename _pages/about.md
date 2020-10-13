@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a second-year graduate student in the [Conversational AI  Lab (CoAI)](http://coai.cs.tsinghua.edu.cn/) under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) of Tsinghua University, Beijing, China. Before joining CoAI, I received my bachelor degree in the Department of Physics of Tsinghua University. Here is my [cv](./cv_guanjian.pdf) and [简历](./cv_guanjian_zh.pdf).
 
-My research interests lie in [open-ended language generation](https://github.com/thu-coai/PaperForONLG), reinforcement learning, information retrieval, etc.
+My research interests lie in **open-ended language generation**[[paper list]](https://github.com/thu-coai/PaperForONLG), **reinforcement learning**, **information retrieval**, etc.
 
 
 
