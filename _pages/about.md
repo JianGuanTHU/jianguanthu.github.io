@@ -18,6 +18,7 @@ My research interests lie in **open-ended language generation**[[paper list]](ht
 
 *\* indicates equal contribution*
 
+1. **Jian Guan**, Zhuoer Feng, Yamei Chen, Ruilin He, Xiaoxi Mao, Changjie Fan, Minlie Huang. *TACL 2022.* [[pdf]](https://arxiv.org/abs/2108.12960) [[code]](https://github.com/thu-coai/LOT-LongLM)
 1. **Jian Guan**, Zhexin Zhang, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics. *ACL 2021, Online Conference.* [[pdf]](https://arxiv.org/abs/2105.08920) [[toolkit]](https://github.com/thu-coai/OpenMEVA)
 2. **Jian Guan**, Xiaoxi Mao, changjie fan, Zitao Liu, Wenbiao Ding, Minlie Huang. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence. *ACL 2021, Online Conference.* [[pdf]](https://arxiv.org/abs/2105.08963) [[code]](https://github.com/thu-coai/HINT) 
 3. Xiangzhe Kong, Jialiang Huang, Ziquan Tung, **Jian Guan** and Minlie Huang. Stylized Story Generation with Style-Guided Planning. *Findings of ACL 2021, Online Conference.* [[pdf]](https://arxiv.org/abs/2105.08625) [[code]](https://github.com/thu-coai/Stylized-Story-Generation-with-Style-Guided-Planning)
