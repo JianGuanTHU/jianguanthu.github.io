@@ -19,6 +19,7 @@ My research interests lie in **open-ended language generation**[[paper list]](ht
 
 *\* indicates equal contribution*
 
+1. **Jian Guan**, Ziqi Liu, Minlie Huang. A Corpus for Understanding and Generating Moral Stories. *NAACL 2022*. [[pdf]](https://arxiv.org/abs/2204.09438) [[data]](https://github.com/thu-coai/MoralStory)
 1. **Jian Guan**, Zhuoer Feng, Yamei Chen, Ruilin He, Xiaoxi Mao, Changjie Fan, Minlie Huang. LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation. *TACL 2022.* [[pdf]](https://arxiv.org/abs/2108.12960) [[code]](https://github.com/thu-coai/LOT-LongLM)
 2. **Jian Guan**, Zhexin Zhang, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics. *ACL 2021, Online Conference.* [[pdf]](https://arxiv.org/abs/2105.08920) [[toolkit]](https://github.com/thu-coai/OpenMEVA)
 3. **Jian Guan**, Xiaoxi Mao, changjie fan, Zitao Liu, Wenbiao Ding, Minlie Huang. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence. *ACL 2021, Online Conference.* [[pdf]](https://arxiv.org/abs/2105.08963) [[code]](https://github.com/thu-coai/HINT) 
