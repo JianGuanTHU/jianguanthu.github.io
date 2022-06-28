@@ -24,9 +24,36 @@ My research interests lie in **open-ended language generation**[[paper list]](ht
 1. **Jian Guan**, Zhuoer Feng, Yamei Chen, Ruilin He, Xiaoxi Mao, Changjie Fan, Minlie Huang. LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation. *TACL 2022.* [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00469/110537/LOT-A-Story-Centric-Benchmark-for-Evaluating) [[code]](https://github.com/thu-coai/LOT-LongLM)
 2. **Jian Guan**, Zhexin Zhang, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics. *ACL 2021, Online Conference.* [[pdf]](https://aclanthology.org/2021.acl-long.500/) [[toolkit]](https://github.com/thu-coai/OpenMEVA)
 3. **Jian Guan**, Xiaoxi Mao, changjie fan, Zitao Liu, Wenbiao Ding, Minlie Huang. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence. *ACL 2021, Online Conference.* [[pdf]](https://aclanthology.org/2021.acl-long.499/) [[code]](https://github.com/thu-coai/HINT) 
+3. Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, **Jian Guan**, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. *AI Open 2021.* [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM)
 4. Xiangzhe Kong, Jialiang Huang, Ziquan Tung, **Jian Guan** and Minlie Huang. Stylized Story Generation with Style-Guided Planning. *Findings of ACL 2021, Online Conference.* [[pdf]](https://aclanthology.org/2021.findings-acl.215/) [[code]](https://github.com/thu-coai/Stylized-Story-Generation-with-Style-Guided-Planning)
 5. **Jian Guan**, Minlie Huang. UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. *EMNLP 2020, Online Conference.* [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.736) [[code]](https://github.com/thu-coai/UNION) [[bib]](https://www.aclweb.org/anthology/2020.emnlp-main.736.bib)
 6. **Jian Guan**, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. *TACL 2020.* [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00302) [[code]](https://github.com/thu-coai/CommonsenseStoryGen) [[demo]](http://coai.cs.tsinghua.edu.cn/static/CommonsenseStoryGen/) [[bib]](https://www.aclweb.org/anthology/2020.tacl-1.7.bib)
 7. Xueying Bai\*, **Jian Guan**\*, Hongning Wang. A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation. *NeurIPS 2019*.  [[pdf]](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation) [[code]](https://github.com/JianGuanTHU/IRecGAN) [[bib]](https://proceedings.neurips.cc//paper/2019/file/e49eb6523da9e1c347bc148ea8ac55d3-Bibtex.bib)
 8. **Jian Guan\***, Yansen Wang\*, Minlie Huang. Story ending generation with incremental encoding and commonsense knowledge. *AAAI 2019, Honolulu, Hawaii, USA.*  [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4612) [[code]](https://github.com/JianGuanTHU/StoryEndGen) [[bib]](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=4612&publicationId=3017])
 9. Pei Ke, **Jian Guan**, Minlie Huang, Xiaoyan Zhu. Generating informative responses with controlled sentence function. *ACL 2018, Melbourne, Australia.* [[pdf]](https://www.aclweb.org/anthology/P18-1139) [[code]](https://github.com/kepei1106/SentenceFunction) [[bib]](https://www.aclweb.org/anthology/P18-1139.bib)
+
+
+
+## Preprints
+
+1. Yuan Yao, Qingxiu Dong, **Jian Guan**, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, Xiaozhi Wang, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A chinese language understanding and generation evaluation benchmark. *arxiv preprint2021* [[pdf]](https://arxiv.org/abs/2112.13610)
+2. Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, **Jian Guan**, Pei Ke, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-scale Cost-effective Pre-trained Language Models. *arXiv preprint 2021*.[[pdf\]](https://arxiv.org/abs/2106.10715) [[code\]](https://github.com/TsinghuaAI/CPM)
+3. Fei Huang, **Jian Guan**, Pei Ke, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf\]](https://openreview.net/forum?id=wOI9hqkvu_)
+4. Fei Huang, Dazhen Wan, Zhihong Shao, Pei Ke, **Jian Guan**, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. *arXiv preprint 2020.* [[pdf\]](https://arxiv.org/abs/2002.00583) [[code\]](https://github.com/thu-coai/cotk)
+
+
+
+## Services
+
+1. Conference Reviewer: ACL (2021), NAACL (2021), ARR (2021-), AAAI (2020), NLPCC (2021)
+2. Organizer: NLGIW 2022技术评测任务二：基于大纲的条件故事生成
+
+
+
+## Teaching
+
+I was a TA for the following undergraduate courses:
+
+- Artificial Neural Network (2019 Fall, 2020 Fall, 2021 Fall)
+- Object-Oriented Programming (2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring)
+
