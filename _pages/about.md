@@ -9,9 +9,9 @@ redirect_from:
 
 ---
 
-I am now a third-year graduate student in the [Conversational AI  Lab (CoAI)](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University, Beijing, China, under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Before joining CoAI, I received my bachelor degree in the Department of Physics, Tsinghua University. Here is my [cv](./cv_guanjian.pdf) and [简历](./cv_guanjian_zh.pdf).
+He is now a fourth-year graduate student in the [Conversational AI  Lab (CoAI)](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University, Beijing, China, under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Before joining CoAI, he received my bachelor degree in the Department of Physics, Tsinghua University. Here is his [cv](./cv_guanjian.pdf) and [简历](./cv_guanjian_zh.pdf).
 
-My research interests lie in **open-ended natural language generation and evaluation**[[must-read paper list]](https://github.com/thu-coai/PaperForONLG), etc.
+His research interests lie in **open-ended natural language generation and evaluation**[[must-read paper list]](https://github.com/thu-coai/PaperForONLG), etc.
 
 
 
@@ -52,7 +52,7 @@ My research interests lie in **open-ended natural language generation and evalua
 
 ## Teaching
 
-I was a TA for the following undergraduate courses:
+He was a TA for the following undergraduate courses:
 
 - Artificial Neural Network (2019 Fall, 2020 Fall, 2021 Fall)
 - Object-Oriented Programming (2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring)
