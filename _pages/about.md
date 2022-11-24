@@ -19,7 +19,7 @@ His research interests lie in **open-ended natural language generation and evalu
 
 *\* indicates equal contribution*
 
-1. **Jian Guan**, Zhenyu Yang, Rongsheng Zhang, Zhipeng Hu, Minlie Huang. Generating Coherent Narratives by Learning Dynamic and Discrete Entity States with a Contrastive Framework. [[pdf]](https://arxiv.org/abs/2208.03985) [[code]](https://github.com/thu-coai/ERIC)
+1. **Jian Guan**, Zhenyu Yang, Rongsheng Zhang, Zhipeng Hu, Minlie Huang. Generating Coherent Narratives by Learning Dynamic and Discrete Entity States with a Contrastive Framework. *AAAI 2023.* [[pdf]](https://arxiv.org/abs/2208.03985) [[code]](https://github.com/thu-coai/ERIC)
 2. **Jian Guan**, Ziqi Liu, Minlie Huang. A Corpus for Understanding and Generating Moral Stories. *NAACL 2022*. [[pdf]](https://arxiv.org/abs/2204.09438) [[data]](https://github.com/thu-coai/MoralStory)
 3. Jiaxin Wen, Zhexin Zhang, **Jian Guan**, Minlie Huang. Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation. *NAACL 2022*. [[pdf]](https://arxiv.org/pdf/2204.10703.pdf) [[code]](https:// github.com/thu-coai/ConPer)
 4. **Jian Guan**, Zhuoer Feng, Yamei Chen, Ruilin He, Xiaoxi Mao, Changjie Fan, Minlie Huang. LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation. *TACL 2022.* [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00469/110537/LOT-A-Story-Centric-Benchmark-for-Evaluating) [[code]](https://github.com/thu-coai/LOT-LongLM)
