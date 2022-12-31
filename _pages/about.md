@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-He is now a fourth-year graduate student in the [Conversational AI  Lab (CoAI)](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University, Beijing, China, under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Before joining CoAI, he received my bachelor degree in the Department of Physics, Tsinghua University. Here are his [cv](./cv_guanjian.pdf) and [简历](./cv_guanjian_zh.pdf).
+He is now a fourth-year graduate student in the [Conversational AI  Lab (CoAI)](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University, Beijing, China, under the supervision of Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Before joining CoAI, he received his bachelor's degree in the Department of Physics at Tsinghua University. Here are his [cv](./cv_guanjian.pdf) and [简历](./cv_guanjian_zh.pdf).
 
 His research interests lie in **open-ended natural language generation and evaluation**[[must-read paper list]](https://github.com/thu-coai/PaperForONLG), etc.
 
