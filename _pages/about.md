@@ -19,9 +19,9 @@ His research interests lie in **open-ended natural language generation and evalu
 
 *\* indicates equal contribution*
 
-1. **Jian Guan**, Minlie Huang. Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation. *Findings of ACL 2023 (Short Paper).*
-2. Xuekai Zhu\*, **Jian Guan**\*, Minlie Huang, Juan Liu. StoryTrans: Non-Parallel Story Author-Style Transfer with Discourse Representations and Content Enhancing. *ACL 2023.*
-3. Zhexin Zhang, **Jian Guan**, Xin Cui, Yu Ran, Bo Liu and Minlie Huang. Self-Supervised Sentence Polishing by Adding Engaging Modifiers. *ACL 2023 (Demo).*
+1. **Jian Guan**, Minlie Huang. Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation. *Findings of ACL 2023 (Short Paper).* [[pdf]](https://arxiv.org/abs/2307.01542) [[code]](https://github.com/thu-coai/SelfCont)
+2. Xuekai Zhu\*, **Jian Guan**\*, Minlie Huang, Juan Liu. StoryTrans: Non-Parallel Story Author-Style Transfer with Discourse Representations and Content Enhancing. *ACL 2023.* <font color=Red>[Area Chair Award]</font>
+3. Zhexin Zhang, **Jian Guan**, Xin Cui, Yu Ran, Bo Liu and Minlie Huang. Self-Supervised Sentence Polishing by Adding Engaging Modifiers. *ACL 2023 (Demo).* 
 4. **Jian Guan**, Zhenyu Yang, Rongsheng Zhang, Zhipeng Hu, Minlie Huang. Generating Coherent Narratives by Learning Dynamic and Discrete Entity States with a Contrastive Framework. *AAAI 2023.* [[pdf]](https://arxiv.org/abs/2208.03985) [[code]](https://github.com/thu-coai/ERIC)
 5. Zhexin Zhang\*, **Jian Guan**\*, Guowei Xu, Yixiang Tian, Minlie Huang. Automatic Comment Generation for Chinese Student Narrative Essays. *EMNLP 2022 (Demo)*. [[pdf]](https://aclanthology.org/2022.emnlp-demos.21/) [[code]](https://github.com/thu-coai/EssayCommentGen)
 6. **Jian Guan**, Ziqi Liu, Minlie Huang. A Corpus for Understanding and Generating Moral Stories. *NAACL 2022*. [[pdf]](https://arxiv.org/abs/2204.09438) [[data]](https://github.com/thu-coai/MoralStory)
@@ -41,10 +41,11 @@ His research interests lie in **open-ended natural language generation and evalu
 
 ## Preprints
 
-1. Yuan Yao, Qingxiu Dong, **Jian Guan**, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, Xiaozhi Wang, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A chinese language understanding and generation evaluation benchmark. *arxiv preprint2021* [[pdf]](https://arxiv.org/abs/2112.13610)
-2. Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, **Jian Guan**, Pei Ke, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-scale Cost-effective Pre-trained Language Models. *arXiv preprint 2021*.[[pdf\]](https://arxiv.org/abs/2106.10715) [[code\]](https://github.com/TsinghuaAI/CPM)
-3. Fei Huang, **Jian Guan**, Pei Ke, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf\]](https://openreview.net/forum?id=wOI9hqkvu_)
-4. Fei Huang, Dazhen Wan, Zhihong Shao, Pei Ke, **Jian Guan**, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. *arXiv preprint 2020.* [[pdf\]](https://arxiv.org/abs/2002.00583) [[code\]](https://github.com/thu-coai/cotk)
+1. Jianzhu Yao, Ziqi Liu, **Jian Guan**, Minlie Huang. A Benchmark for Understanding and Generating Dialogue between Characters in Stories. *arxiv preprint 2022.* [[pdf]](https://arxiv.org/pdf/2209.08524.pdf)
+2. Yuan Yao, Qingxiu Dong, **Jian Guan**, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, Xiaozhi Wang, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A chinese language understanding and generation evaluation benchmark. *arxiv preprint2021.* [[pdf]](https://arxiv.org/abs/2112.13610)
+3. Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, **Jian Guan**, Pei Ke, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun. CPM-2: Large-scale Cost-effective Pre-trained Language Models. *arXiv preprint 2021*.[[pdf\]](https://arxiv.org/abs/2106.10715) [[code\]](https://github.com/TsinghuaAI/CPM)
+4. Fei Huang, **Jian Guan**, Pei Ke, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf\]](https://openreview.net/forum?id=wOI9hqkvu_)
+5. Fei Huang, Dazhen Wan, Zhihong Shao, Pei Ke, **Jian Guan**, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. *arXiv preprint 2020.* [[pdf\]](https://arxiv.org/abs/2002.00583) [[code\]](https://github.com/thu-coai/cotk)
 
 
 
