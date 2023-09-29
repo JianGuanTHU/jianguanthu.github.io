@@ -63,8 +63,7 @@ He was a TA for the following undergraduate courses:
 - Artificial Neural Network (2019 Fall, 2020 Fall, 2021 Fall)
 - Object-Oriented Programming (2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring)
 
-
-
-<div style="height: 250px;width: 250px;margin-left: 40px;">
+<br><br><br><br>
+<div style="height: 250px;width: 250px;margin-left: 0px;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ZpYkmM7TcnuwV5hUFmSBK6-wcEbSUhYPqSxziPKxz3U&cl=ffffff&w=a"></script>
 </div>
