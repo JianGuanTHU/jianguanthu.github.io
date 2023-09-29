@@ -65,4 +65,6 @@ He was a TA for the following undergraduate courses:
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ZpYkmM7TcnuwV5hUFmSBK6-wcEbSUhYPqSxziPKxz3U&cl=ffffff&w=a" width="50%"></script>
+<div style="height: 250px;width: 250px;margin-left: 40px;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ZpYkmM7TcnuwV5hUFmSBK6-wcEbSUhYPqSxziPKxz3U&cl=ffffff&w=a"></script>
+</div>
