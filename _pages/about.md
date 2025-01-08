@@ -22,6 +22,18 @@ His research interests include:
 
 
 
+## 🏅 Awards
+
+- Selected for CIPS Doctoral Dissertation Incentive Program, 2024（[中国中文信息学会博士学位论文激励计划](https://www.cipsc.org.cn/InstituteNews/info.aspx?itemid=4754)，Top 10 in China）
+- Tsinghua University Excellent Doctoral Dissertation, 2024（清华大学优秀博士论文）
+- ACL (CCF-A) Area Chair Award,  2023
+- Microsoft Research Asia Fellowship Nomination Award, 2022 (Top 33 in Asia)
+- National scholarship for doctoral students, 2022
+- Excellent Graduate in Beijing, 2019
+- Outstanding Graduate in Tsinghua University, 2019
+
+
+
 ## Main Publications
 
 *\* indicates equal contribution; $\dagger$ indicates corresponding author(s)*
