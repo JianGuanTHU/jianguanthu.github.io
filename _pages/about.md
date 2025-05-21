@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Jian Guan currently serves as a researcher at Ant Group, working with [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home). He obtained his bachelor and Ph.D. degrees from Tsinghua University, advised by [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Jian has also interned at various institutions, including the Allen Institute for Artificial Intelligence in Seattle with the supervision of [Hao Peng](https://haopeng-nlp.github.io/) and [Jesse Dodge](https://jessedodge.github.io/) (Jan.~Jun., 2023) and the University of Virginia with the supervision of [Hongning Wang]() (Jul.~Sep., 2018). Here are his [cv](./cv_guanjian.pdf) and [简历](./cv_guanjian_zh.pdf).
+Jian Guan currently serves as a researcher at Ant Group, working with [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home). He obtained his bachelor and Ph.D. degrees from Tsinghua University, advised by [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Jian has also interned at various institutions, including the Allen Institute for Artificial Intelligence in Seattle with the supervision of [Hao Peng](https://haopeng-nlp.github.io/) and [Jesse Dodge](https://jessedodge.github.io/) (Jan.~Jun., 2023) and the University of Virginia with the supervision of [Hongning Wang]() (Jul.~Sep., 2018). 
 
 His research interests include:
 
@@ -34,57 +34,62 @@ His research interests include:
 
 
 
-## Main Publications
+## Main Publications and Preprints
 
 *\* indicates equal contribution; $\dagger$ indicates corresponding author(s)*
 
-1. **Jian Guan**, Junfei Wu, Jia-Nan Li, Chuanqi Cheng, Wei Wu. A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications. *Findings of ACL 2025.* [[pdf]](https://arxiv.org/abs/2503.17003)
-2. Xueliang Zhao, Wei Wu, **Jian Guan**, Lingpeng Kong. Promptcot: Synthesizing olympiad-level problems for mathematical reasoning in large language models. *Findings of ACL 2025.* [[pdf]](https://arxiv.org/abs/2503.02324) [[code]](https://github.com/inclusionAI/PromptCoT)
-3. Chuanqi Cheng\*, **Jian Guan**\*, Wei Wu, Rui Yan. Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2504.02438) [[code]](https://github.com/steven-ccq/ViLAMP)
-4. Zhuocheng Gong, **Jian Guan**, Wei Wu, Huishuai Zhang, Dongyan Zhao. Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2505.04993) 
-5. Jiaxin Wen\*, **Jian Guan\***, Hongning Wang, Wei Wu, Minlie Huang. Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning. <u>ICLR 2025</u>. [[pdf]](https://arxiv.org/pdf/2409.12452) [[data]](https://huggingface.co/datasets/jiaxin-wen/CodePlan)
-6. Jia-Nan Li\*, **Jian Guan\***, Wei Wu, Zhengtao Yu, Rui Yan. 2D-TPE: Two-Dimensional Positional Encoding Enhances Table Understanding for Large Language Models. <u>WWW 2025</u>. [[pdf]](https://arxiv.org/pdf/2409.19700)
-7. **Jian Guan**, Wei Wu, Zujie Wen, Peng Xu, Hongning Wang, Minlie Huang. AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback. <u>NeurIPS 2024</u>. [[pdf]](https://arxiv.org/abs/2402.01469)
-8. Zhuocheng Gong*, Ang Lv\*, **Jian Guan$^\dagger$**, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules. <u>EMNLP 2024</u>. [[pdf]](https://arxiv.org/pdf/2407.06677)
-9. Chuanqi Cheng*, **Jian Guan\***, Wei Wu, Rui Yan. From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis. <u>EMNLP 2024</u>. [[pdf]](https://arxiv.org/pdf/2406.19934)
-10. **Jian Guan**, Jesse Dodge, David Wadden, Minlie Huang, Hao Peng. Language Models Hallucinate, but May Excel at Fact Verification. <u>NAACL 2024</u>. [[pdf]](https://arxiv.org/abs/2310.14564) [[code]](https://github.com/JianGuanTHU/LLMforFV)
-11. Jiaxin Wen, Hao Zhou, **Jian Guan**, Jie Zhou, Minlie Huang. Re3Dial: Retrieve, Reorganize and Rescale Conversations for Long-Turn Open-Domain Dialogue Pre-training. <u>EMNLP 2023</u>. [[pdf]](https://aclanthology.org/2023.emnlp-main.612.pdf)
-12. **Jian Guan**, Minlie Huang. Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation. <u>Findings of ACL 2023 (Short Paper)</u>. [[pdf]](https://arxiv.org/abs/2307.01542) [[code]](https://github.com/thu-coai/SelfCont)
-13. Xuekai Zhu\*, **Jian Guan**\*, Minlie Huang, Juan Liu. StoryTrans: Non-Parallel Story Author-Style Transfer with Discourse Representations and Content Enhancing. <u>ACL 2023</u>. <font color=Red>[Area Chair Award]</font> 🏅
-14. Zhexin Zhang, **Jian Guan**, Xin Cui, Yu Ran, Bo Liu and Minlie Huang. Self-Supervised Sentence Polishing by Adding Engaging Modifiers. <u>ACL 2023 (Demo)</u>.
-15. **Jian Guan**, Zhenyu Yang, Rongsheng Zhang, Zhipeng Hu, Minlie Huang. Generating Coherent Narratives by Learning Dynamic and Discrete Entity States with a Contrastive Framework. <u>AAAI 2023</u>. [[pdf]](https://arxiv.org/abs/2208.03985) [[code]](https://github.com/thu-coai/ERIC)
-16. Zhexin Zhang\*, **Jian Guan**\*, Guowei Xu, Yixiang Tian, Minlie Huang. Automatic Comment Generation for Chinese Student Narrative Essays. <u>EMNLP 2022 (Demo)</u>. [[pdf]](https://aclanthology.org/2022.emnlp-demos.21/) [[code]](https://github.com/thu-coai/EssayCommentGen)
-17. **Jian Guan**, Ziqi Liu, Minlie Huang. A Corpus for Understanding and Generating Moral Stories. <u>NAACL 2022</u>. [[pdf]](https://arxiv.org/abs/2204.09438) [[data]](https://github.com/thu-coai/MoralStory)
-18. Jiaxin Wen, Zhexin Zhang, **Jian Guan**, Minlie Huang. Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation. <u>NAACL 2022</u>. [[pdf]](https://arxiv.org/pdf/2204.10703.pdf) [[code]](https:// github.com/thu-coai/ConPer)
-19. **Jian Guan**, Zhuoer Feng, Yamei Chen, Ruilin He, Xiaoxi Mao, Changjie Fan, Minlie Huang. LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation. <u>TACL 2022</u>. [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00469/110537/LOT-A-Story-Centric-Benchmark-for-Evaluating) [[code]](https://github.com/thu-coai/LOT-LongLM)
-20. **Jian Guan**, Zhexin Zhang, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics. <u>ACL 2021</u>. [[pdf]](https://aclanthology.org/2021.acl-long.500/) [[toolkit]](https://github.com/thu-coai/OpenMEVA)
-21. **Jian Guan**, Xiaoxi Mao, changjie fan, Zitao Liu, Wenbiao Ding, Minlie Huang. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence. <u>ACL 2021</u>. [[pdf]](https://aclanthology.org/2021.acl-long.499/) [[code]](https://github.com/thu-coai/HINT) 
-22. Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, **Jian Guan**, et al. CPM-2: Large-scale Cost-efficient Pre-trained Language Models. <u>AI Open 2021</u>. [[pdf\]](https://arxiv.org/abs/2106.10715) [[code\]](https://github.com/TsinghuaAI/CPM)
-23. Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, **Jian Guan**, et al. CPM: A Large-scale Generative Chinese Pre-trained Language Model. <u>AI Open 2021</u>. [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM)
-24. Xiangzhe Kong, Jialiang Huang, Ziquan Tung, **Jian Guan** and Minlie Huang. Stylized Story Generation with Style-Guided Planning. <u>Findings of ACL 2021</u>. [[pdf]](https://aclanthology.org/2021.findings-acl.215/) [[code]](https://github.com/thu-coai/Stylized-Story-Generation-with-Style-Guided-Planning)
-25. **Jian Guan**, Minlie Huang. UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. <u>EMNLP 2020</u>. [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.736) [[code]](https://github.com/thu-coai/UNION) [[bib]](https://www.aclweb.org/anthology/2020.emnlp-main.736.bib)
-26. **Jian Guan**, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. <u>TACL 2020</u>. [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00302) [[code]](https://github.com/thu-coai/CommonsenseStoryGen) [[demo]](http://coai.cs.tsinghua.edu.cn/static/CommonsenseStoryGen/) [[bib]](https://www.aclweb.org/anthology/2020.tacl-1.7.bib)
-27. Xueying Bai\*, **Jian Guan**\*, Hongning Wang. A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation. <u>NeurIPS 2019</u>.  [[pdf]](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation) [[code]](https://github.com/JianGuanTHU/IRecGAN) [[bib]](https://proceedings.neurips.cc//paper/2019/file/e49eb6523da9e1c347bc148ea8ac55d3-Bibtex.bib)
-28. **Jian Guan\***, Yansen Wang\*, Minlie Huang. Story ending generation with incremental encoding and commonsense knowledge. <u>AAAI 2019</u>.  [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4612) [[code]](https://github.com/JianGuanTHU/StoryEndGen) [[bib]](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=4612&publicationId=3017])
-29. Pei Ke, **Jian Guan**, Minlie Huang, Xiaoyan Zhu. Generating informative responses with controlled sentence function. <u>ACL 2018</u>. [[pdf]](https://www.aclweb.org/anthology/P18-1139) [[code]](https://github.com/kepei1106/SentenceFunction) [[bib]](https://www.aclweb.org/anthology/P18-1139.bib)
+1.  Natural Language Generation
+
+   1. Zhuocheng Gong*, Ang Lv\*, **Jian Guan$^\dagger$**, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules. <u>EMNLP 2024</u>. [[pdf]](https://arxiv.org/pdf/2407.06677)
+   2. **Jian Guan**, Jesse Dodge, David Wadden, Minlie Huang, Hao Peng. Language Models Hallucinate, but May Excel at Fact Verification. <u>NAACL 2024</u>. [[pdf]](https://arxiv.org/abs/2310.14564) [[code]](https://github.com/JianGuanTHU/LLMforFV)
+   3. Jiaxin Wen, Hao Zhou, **Jian Guan**, Jie Zhou, Minlie Huang. Re3Dial: Retrieve, Reorganize and Rescale Conversations for Long-Turn Open-Domain Dialogue Pre-training. <u>EMNLP 2023</u>. [[pdf]](https://aclanthology.org/2023.emnlp-main.612.pdf)
+   4. **Jian Guan**, Minlie Huang. Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation. <u>Findings of ACL 2023 (Short Paper)</u>. [[pdf]](https://arxiv.org/abs/2307.01542) [[code]](https://github.com/thu-coai/SelfCont)
+   5. Xuekai Zhu\*, **Jian Guan**\*, Minlie Huang, Juan Liu. StoryTrans: Non-Parallel Story Author-Style Transfer with Discourse Representations and Content Enhancing. <u>ACL 2023</u>. <font color=Red>[Area Chair Award]</font> 🏅
+   6. Zhexin Zhang, **Jian Guan**, Xin Cui, Yu Ran, Bo Liu and Minlie Huang. Self-Supervised Sentence Polishing by Adding Engaging Modifiers. <u>ACL 2023 (Demo)</u>.
+   7. **Jian Guan**, Zhenyu Yang, Rongsheng Zhang, Zhipeng Hu, Minlie Huang. Generating Coherent Narratives by Learning Dynamic and Discrete Entity States with a Contrastive Framework. <u>AAAI 2023</u>. [[pdf]](https://arxiv.org/abs/2208.03985) [[code]](https://github.com/thu-coai/ERIC)
+   8. Zhexin Zhang\*, **Jian Guan**\*, Guowei Xu, Yixiang Tian, Minlie Huang. Automatic Comment Generation for Chinese Student Narrative Essays. <u>EMNLP 2022 (Demo)</u>. [[pdf]](https://aclanthology.org/2022.emnlp-demos.21/) [[code]](https://github.com/thu-coai/EssayCommentGen)
+   9. **Jian Guan**, Ziqi Liu, Minlie Huang. A Corpus for Understanding and Generating Moral Stories. <u>NAACL 2022</u>. [[pdf]](https://arxiv.org/abs/2204.09438) [[data]](https://github.com/thu-coai/MoralStory)
+   10. Jiaxin Wen, Zhexin Zhang, **Jian Guan**, Minlie Huang. Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation. <u>NAACL 2022</u>. [[pdf]](https://arxiv.org/pdf/2204.10703.pdf) [[code]](https:// github.com/thu-coai/ConPer)
+   11. **Jian Guan**, Zhuoer Feng, Yamei Chen, Ruilin He, Xiaoxi Mao, Changjie Fan, Minlie Huang. LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation. <u>TACL 2022</u>. [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00469/110537/LOT-A-Story-Centric-Benchmark-for-Evaluating) [[code]](https://github.com/thu-coai/LOT-LongLM)
+   12. **Jian Guan**, Zhexin Zhang, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics. <u>ACL 2021</u>. [[pdf]](https://aclanthology.org/2021.acl-long.500/) [[toolkit]](https://github.com/thu-coai/OpenMEVA)
+   13. **Jian Guan**, Xiaoxi Mao, changjie fan, Zitao Liu, Wenbiao Ding, Minlie Huang. Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence. <u>ACL 2021</u>. [[pdf]](https://aclanthology.org/2021.acl-long.499/) [[code]](https://github.com/thu-coai/HINT) 
+   14. Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, **Jian Guan**, et al. CPM-2: Large-scale Cost-efficient Pre-trained Language Models. <u>AI Open 2021</u>. [[pdf\]](https://arxiv.org/abs/2106.10715) [[code\]](https://github.com/TsinghuaAI/CPM)
+   15. Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, YuSheng Su, Haozhe Ji, **Jian Guan**, et al. CPM: A Large-scale Generative Chinese Pre-trained Language Model. <u>AI Open 2021</u>. [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM)
+   16. Xiangzhe Kong, Jialiang Huang, Ziquan Tung, **Jian Guan** and Minlie Huang. Stylized Story Generation with Style-Guided Planning. <u>Findings of ACL 2021</u>. [[pdf]](https://aclanthology.org/2021.findings-acl.215/) [[code]](https://github.com/thu-coai/Stylized-Story-Generation-with-Style-Guided-Planning)
+   17. **Jian Guan**, Minlie Huang. UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. <u>EMNLP 2020</u>. [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.736) [[code]](https://github.com/thu-coai/UNION) [[bib]](https://www.aclweb.org/anthology/2020.emnlp-main.736.bib)
+   18. **Jian Guan**, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. <u>TACL 2020</u>. [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00302) [[code]](https://github.com/thu-coai/CommonsenseStoryGen) [[demo]](http://coai.cs.tsinghua.edu.cn/static/CommonsenseStoryGen/) [[bib]](https://www.aclweb.org/anthology/2020.tacl-1.7.bib)
+   19. **Jian Guan\***, Yansen Wang\*, Minlie Huang. Story ending generation with incremental encoding and commonsense knowledge. <u>AAAI 2019</u>.  [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4612) [[code]](https://github.com/JianGuanTHU/StoryEndGen) [[bib]](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=4612&publicationId=3017])
+   20. Pei Ke, **Jian Guan**, Minlie Huang, Xiaoyan Zhu. Generating informative responses with controlled sentence function. <u>ACL 2018</u>. [[pdf]](https://www.aclweb.org/anthology/P18-1139) [[code]](https://github.com/kepei1106/SentenceFunction) [[bib]](https://www.aclweb.org/anthology/P18-1139.bib)
+   21. Jianzhu Yao, Ziqi Liu, **Jian Guan**, Minlie Huang. A Benchmark for Understanding and Generating Dialogue between Characters in Stories. *arxiv preprint 2022.* [[pdf]](https://arxiv.org/pdf/2209.08524.pdf)
+   22. Yuan Yao, Qingxiu Dong, **Jian Guan**, et al. CUGE: A chinese language understanding and generation evaluation benchmark. *arxiv preprint 2021.* [[pdf]](https://arxiv.org/abs/2112.13610)
+   23. Fei Huang, **Jian Guan**, Pei Ke, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. *arxiv preprint 202.* [[pdf\]](https://openreview.net/forum?id=wOI9hqkvu_)
+   24. Fei Huang, Dazhen Wan, Zhihong Shao, Pei Ke, **Jian Guan**, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. *arxiv preprint 2020.* [[pdf\]](https://arxiv.org/abs/2002.00583) [[code\]](https://github.com/thu-coai/cotk)
+
+   
+
+2. Advanced Reasoning in LLMs and LVLMs
+
+   1. Chuanqi Cheng\*, **Jian Guan**\*, Wei Wu, Rui Yan. Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2504.02438) [[code]](https://github.com/steven-ccq/ViLAMP) <font color=Red>[7B SOTA LVLM on [VideoMME](https://video-mme.github.io/home_page.html)]</font>
+   2. Xueliang Zhao, Wei Wu, **Jian Guan**, Lingpeng Kong. Promptcot: Synthesizing olympiad-level problems for mathematical reasoning in large language models. <u>Findings of ACL 2025.</u> [[pdf]](https://arxiv.org/abs/2503.02324) [[code]](https://github.com/inclusionAI/PromptCoT)
+   3. Jiaxin Wen\*, **Jian Guan\***, Hongning Wang, Wei Wu, Minlie Huang. Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning. <u>ICLR 2025</u>. [[pdf]](https://arxiv.org/pdf/2409.12452) [[data]](https://huggingface.co/datasets/jiaxin-wen/CodePlan)
+   4. Jia-Nan Li\*, **Jian Guan\***, Wei Wu, Zhengtao Yu, Rui Yan. 2D-TPE: Two-Dimensional Positional Encoding Enhances Table Understanding for Large Language Models. <u>WWW 2025</u>. [[pdf]](https://arxiv.org/pdf/2409.19700)
+   5. **Jian Guan**, Wei Wu, Zujie Wen, Peng Xu, Hongning Wang, Minlie Huang. AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback. <u>NeurIPS 2024</u>. [[pdf]](https://arxiv.org/abs/2402.01469)
+   6. Chuanqi Cheng*, **Jian Guan\***, Wei Wu, Rui Yan. From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis. <u>EMNLP 2024</u>. [[pdf]](https://arxiv.org/pdf/2406.19934)
+
+   
+
+3. Personalized Alignment
+
+   1. Jia-Nan Li\*, **Jian Guan\***, Songhao Wu, Wei Wu, Rui Yan. From 1,000,000 users to every user: Scaling up personalized preference for user-level alignment. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2503.15463) [[data]](https://huggingface.co/datasets/JinaLeejnl/AlignX)
+   2. **Jian Guan**, Junfei Wu, Jia-Nan Li, Chuanqi Cheng, Wei Wu. A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications. <u>Findings of ACL 2025.</u> [[pdf]](https://arxiv.org/abs/2503.17003)
+   3. Zhuocheng Gong, **Jian Guan**, Wei Wu, Huishuai Zhang, Dongyan Zhao. Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2505.04993) 
 
 
 
-## Selected Preprints
-
-1. Jia-Nan Li\*, **Jian Guan\***, Songhao Wu, Wei Wu, Rui Yan. From 1,000,000 users to every user: Scaling up personalized preference for user-level alignment. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2503.15463)
-4. Guhao Feng, Yihan Geng, **Jian Guan**, Wei Wu, Liwei Wang, Di He. Theoretical Benefit and Limitation of Diffusion Language Model. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2502.09622)
-5. Sahand Sabour et al. Human Decision-making is Susceptible to AI-driven Manipulation. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2502.07663)
-6. Jianzhu Yao, Ziqi Liu, **Jian Guan**, Minlie Huang. A Benchmark for Understanding and Generating Dialogue between Characters in Stories. *arxiv preprint 2022.* [[pdf]](https://arxiv.org/pdf/2209.08524.pdf)
-7. Yuan Yao, Qingxiu Dong, **Jian Guan**, et al. CUGE: A chinese language understanding and generation evaluation benchmark. *arxiv preprint2021.* [[pdf]](https://arxiv.org/abs/2112.13610)
-8. Fei Huang, **Jian Guan**, Pei Ke, Qihan Guo, Xiaoyan Zhu, Minlie Huang. A Text GAN for Language Generation with Non-Autoregressive Generator. OpenReview preprint 2021.[[pdf\]](https://openreview.net/forum?id=wOI9hqkvu_)
-9. Fei Huang, Dazhen Wan, Zhihong Shao, Pei Ke, **Jian Guan**, Yilin Niu, Xiaoyan Zhu, Minlie Huang. CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation. *arXiv preprint 2020.* [[pdf\]](https://arxiv.org/abs/2002.00583) [[code\]](https://github.com/thu-coai/cotk)
-
-
-
-## Services
-
-1. Organizer: NLGIW 2022技术评测任务二：基于大纲的条件故事生成
+4. Others
+   1. Guhao Feng, Yihan Geng, **Jian Guan**, Wei Wu, Liwei Wang, Di He. Theoretical Benefit and Limitation of Diffusion Language Model. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2502.09622)
+   2. Sahand Sabour et al. Human Decision-making is Susceptible to AI-driven Manipulation. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2502.07663)
+   3. Xueying Bai\*, **Jian Guan**\*, Hongning Wang. A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation. <u>NeurIPS 2019</u>.  [[pdf]](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation) [[code]](https://github.com/JianGuanTHU/IRecGAN) [[bib]](https://proceedings.neurips.cc//paper/2019/file/e49eb6523da9e1c347bc148ea8ac55d3-Bibtex.bib)
 
 
 
