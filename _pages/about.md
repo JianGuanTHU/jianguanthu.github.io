@@ -80,9 +80,10 @@ His research interests include:
 
 ### C. Personalized Alignment
 
-1. Jia-Nan Li\*, **Jian Guan\***, Songhao Wu, Wei Wu, Rui Yan. From 1,000,000 users to every user: Scaling up personalized preference for user-level alignment. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2503.15463) [[data]](https://huggingface.co/datasets/JinaLeejnl/AlignX)
-2. **Jian Guan**, Junfei Wu, Jia-Nan Li, Chuanqi Cheng, Wei Wu. A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications. <u>Findings of ACL 2025.</u> [[pdf]](https://arxiv.org/abs/2503.17003)
-3. Zhuocheng Gong, **Jian Guan**, Wei Wu, Huishuai Zhang, Dongyan Zhao. Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2505.04993) 
+1. Jia-Nan Li\*, **Jian Guan\***, Wei Wu, Rui Yan. Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2505.18071) [[code]](https://github.com/JinaLeejnl/AlignXplore)
+2. Jia-Nan Li\*, **Jian Guan\***, Songhao Wu, Wei Wu, Rui Yan. From 1,000,000 users to every user: Scaling up personalized preference for user-level alignment. *arxiv preprint 2025.* [[pdf]](https://arxiv.org/abs/2503.15463) [[data]](https://huggingface.co/datasets/JinaLeejnl/AlignX)
+3. **Jian Guan**, Junfei Wu, Jia-Nan Li, Chuanqi Cheng, Wei Wu. A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications. <u>Findings of ACL 2025.</u> [[pdf]](https://arxiv.org/abs/2503.17003)
+4. Zhuocheng Gong, **Jian Guan**, Wei Wu, Huishuai Zhang, Dongyan Zhao. Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2505.04993) 
 
 
 
