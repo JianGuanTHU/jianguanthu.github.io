@@ -69,7 +69,7 @@ His research interests include:
 
 ### **B. Advanced Reasoning in LLMs and LVLMs**
 
-1. Chuanqi Cheng\*, **Jian Guan**\*, Wei Wu, Rui Yan. Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2504.02438) [[code]](https://github.com/steven-ccq/ViLAMP) <font color=Red>[7B SOTA LVLM on [VideoMME](https://video-mme.github.io/home_page.html)]</font>
+1. Chuanqi Cheng\*, **Jian Guan**\*, Wei Wu, Rui Yan. Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation. <u>ICML 2025</u> [[pdf]](https://arxiv.org/abs/2504.02438) [[code]](https://github.com/steven-ccq/ViLAMP) <font color=Red>[7B SOTA LVLM on </font>[VideoMME](https://video-mme.github.io/home_page.html)<font color=Red>]</font>
 2. Xueliang Zhao, Wei Wu, **Jian Guan**, Lingpeng Kong. Promptcot: Synthesizing olympiad-level problems for mathematical reasoning in large language models. <u>Findings of ACL 2025.</u> [[pdf]](https://arxiv.org/abs/2503.02324) [[code]](https://github.com/inclusionAI/PromptCoT)
 3. Jiaxin Wen\*, **Jian Guan\***, Hongning Wang, Wei Wu, Minlie Huang. Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning. <u>ICLR 2025</u>. [[pdf]](https://arxiv.org/pdf/2409.12452) [[data]](https://huggingface.co/datasets/jiaxin-wen/CodePlan)
 4. Jia-Nan Li\*, **Jian Guan\***, Wei Wu, Zhengtao Yu, Rui Yan. 2D-TPE: Two-Dimensional Positional Encoding Enhances Table Understanding for Large Language Models. <u>WWW 2025</u>. [[pdf]](https://arxiv.org/pdf/2409.19700)
