@@ -2,7 +2,7 @@
 class PublicationsManager {
     constructor() {
         this.publications = [];
-        this.currentCategory = 'reasoning';
+        this.currentCategory = 'all';
         this.init();
     }
 
