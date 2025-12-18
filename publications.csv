@@ -1,5 +1,5 @@
 category,title,authors,venue,year,links,highlight
-efficient,ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding,"Jia-Nan Li, Jian Guan, Wei Wu, Chongxuan Li",arXiv preprint,2025,"PDF:https://arxiv.org/abs/2512.13586,Code:https://github.com/ML-GSAI/ReFusion,HF:https://huggingface.co/papers/2512.13586",
+efficient,ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding,"Jia-Nan Li*, Jian Guan*, Wei Wu, Chongxuan Li",arXiv preprint,2025,"PDF:https://arxiv.org/abs/2512.13586,Code:https://github.com/ML-GSAI/ReFusion,HF:https://huggingface.co/papers/2512.13586",
 reasoning,MetaAct-RL: Training Language Models for Reasoning through Meta-Action-Based Reinforcement Learning,"Zhiheng Xi, Jian Guan, et al.",AAAI,2026,PDF:TBD,
 reasoning,Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing,"Junfei Wu*, Jian Guan*, Kaituo Feng, Qiang Liu, Shu Wu, Liang Wang, Wei Wu, Tieniu Tan, Lingpeng Kong",NeurIPS,2025,"PDF:https://arxiv.org/abs/2506.09965,Code:https://github.com/AntResearchNLP/ViLaSR,Model:https://huggingface.co/inclusionAI/ViLaSR",
 efficient,Theoretical Benefit and Limitation of Diffusion Language Model,"Guhao Feng, Yihan Geng, Jian Guan, Wei Wu, Liwei Wang, Di He",NeurIPS,2025,PDF:https://arxiv.org/abs/2502.09622,
