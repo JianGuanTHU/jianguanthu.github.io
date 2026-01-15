@@ -1,4 +1,5 @@
 category,title,authors,venue,year,links,highlight
+reasoning,AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress,"Zhiheng Xi, Chenyang Liao, Guanyu Li, Yajie Yang, Wenxiang Chen, Zhihao Zhang, Binghai Wang, Senjie Jin, Yuhao Zhou, Jian Guan, Wei Wu, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang",WWW,2025,PDF:https://arxiv.org/abs/2511.08325,
 reasoning,Trust-Region Adaptive Policy Optimization,"Mingyu Su, Jian Guan, Yuxian Gu, Minlie Huang, Hongning Wang",arXiv preprint,2025,"PDF:https://arxiv.org/abs/2512.17636,Code:https://github.com/Su-my/TRAPO",
 efficient,ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding,"Jia-Nan Li*, Jian Guan*, Wei Wu, Chongxuan Li",arXiv preprint,2025,"PDF:https://arxiv.org/abs/2512.13586,Code:https://github.com/ML-GSAI/ReFusion,HF:https://huggingface.co/papers/2512.13586",
 reasoning,MetaAct-RL: Training Language Models for Reasoning through Meta-Action-Based Reinforcement Learning,"Zhiheng Xi, Jian Guan, et al.",AAAI,2026,PDF:TBD,
