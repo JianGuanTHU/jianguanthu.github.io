@@ -97,7 +97,7 @@ const observer = new IntersectionObserver((entries) => {
 
 // Add scroll animation to elements
 function addScrollAnimations() {
-    const animateElements = document.querySelectorAll('.research-interest-card, .award-item, .publication-item, .teaching-item');
+    const animateElements = document.querySelectorAll('.research-interest-card, .award-item, .news-item, .publication-item, .teaching-item');
     animateElements.forEach(el => {
         el.classList.add('scroll-animate');
         observer.observe(el);
@@ -346,20 +346,13 @@ document.addEventListener('DOMContentLoaded', () => {
     lazyLoadImages();
     
     // Optional: Type writer effect for hero subtitle
-    const heroSubtitle = document.querySelector('.hero-subtitle');
-    if (heroSubtitle) {
-        const text = heroSubtitle.textContent;
-        setTimeout(() => typeWriter(heroSubtitle, text, 50), 1000);
-    }
-    
-    // Add click event to email social link for copying
-    const emailLink = document.querySelector('a[href^="mailto:"]');
-    if (emailLink) {
-        emailLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            copyEmail();
-        });
-    }
+    // const heroSubtitle = document.querySelector('.hero-subtitle');
+    // if (heroSubtitle) {
+    //     const text = heroSubtitle.textContent;
+    //     setTimeout(() => typeWriter(heroSubtitle, text, 50), 1000);
+    // }
+
+    // Email link opens default mail client (no JS override)
 });
 
 // Performance optimization: Debounce scroll events
