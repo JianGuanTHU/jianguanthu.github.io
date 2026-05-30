@@ -237,7 +237,7 @@ body {
     color: var(--text-color);
     border-radius: 6px;
     text-decoration: none;
-    font-size: 0.65rem;
+    font-size: 0.85rem;
     font-weight: 500;
     transition: var(--transition);
     border: 1px solid var(--border-color);
@@ -471,6 +471,120 @@ section {
 
 .award-content p a:hover::after {
     width: 100%;
+}
+
+/* News Section */
+.news {
+    background: var(--bg-color);
+}
+
+.news-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.news-item {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+    margin-bottom: 1rem;
+    transition: var(--transition);
+}
+
+.news-item:hover {
+    box-shadow: var(--shadow-hover);
+}
+
+.news-date {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    background: var(--bg-light);
+    border-radius: 6px;
+    height: fit-content;
+    border: 1px solid var(--border-color);
+}
+
+.news-month {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.news-year {
+    font-size: 0.8rem;
+    color: var(--text-light);
+}
+
+.news-badge {
+    display: inline-block;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: white;
+    background: var(--accent-color);
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+}
+
+.news-content h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.news-content p {
+    color: var(--text-light);
+    line-height: 1.6;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+
+.news-links {
+    display: flex;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+}
+
+.news-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    background: var(--bg-light);
+    border-radius: 6px;
+    transition: var(--transition);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow);
+}
+
+.news-links a:hover {
+    color: white;
+    background: var(--accent-color);
+    border-color: var(--accent-color);
+    box-shadow: var(--shadow-hover);
+}
+
+.news-links a i {
+    font-size: 0.9rem;
 }
 
 /* Publications Section */
@@ -807,6 +921,12 @@ section {
     margin: 0;
 }
 
+.visitor-count {
+    margin-top: 0.5rem !important;
+    font-size: 0.85rem;
+    opacity: 0.7;
+}
+
 /* Visitor Statistics Section */
 .visitor-statistics {
     background: var(--bg-light);
@@ -943,6 +1063,17 @@ section {
     .internship-notice {
         flex-direction: column;
         gap: 1rem;
+    }
+
+    .news-item {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .news-date {
+        flex-direction: row;
+        gap: 0.5rem;
+        width: fit-content;
     }
 
     .social-links {
